@@ -1,4 +1,4 @@
-![log](https://github.com/rajivsharma111/tunehub/raw/main/bann.webp)
+![log](https://github.com/rajivsharma111/tunehub/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Rajiv Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" height="350" width="500" src="https://github.com/rajivsharma111/tunehub/blob/main/dev.gif?raw=true">
